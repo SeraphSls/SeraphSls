@@ -6,18 +6,13 @@ I'm a software engineer with 6 years' experience, working mainly in the financia
 
 Car enthusiast, runner and bodybuilder.
 
-Bloodborne is my favorite game 
-<img src="/crow.png" width="400" align="right">
-
 ### Front-End 🖌
 ![Angular](https://img.shields.io/badge/angular-red?logo=angular&logoColor=purple&color=black)
-
 
 ### Back-End 🖥
 ![Spring](https://img.shields.io/badge/spring-brightgreen?logo=spring&color=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
