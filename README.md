@@ -4,7 +4,7 @@
 
 I'm a software engineer with 6 years' experience, working mainly in the financial sector.
 
-Car enthusiast, runner and bodybuilder.
+Car enthusiast, runner and bodybuilder.🤞🏼
 
 ### Front-End 🖌
 ![Angular](https://img.shields.io/badge/angular-red?logo=angular&logoColor=purple&color=black)
