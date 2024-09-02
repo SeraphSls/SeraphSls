@@ -7,7 +7,8 @@ I'm a software engineer with 6 years' experience, working mainly in the financia
 Car enthusiast, runner and bodybuilder.
 
  
-![Bloodborne is my favorite game]([https://www.deviantart.com/bazaverse/art/Bloodborne-Fan-Art-0012-972849625](https://64.media.tumblr.com/0b20db7beb281f5ba27b7e60e3381367/bd793e4d0134ee1b-ea/s1280x1920/5a4df05bb2f2e041e115cb13efe6ff356925c53c.png))
+![Bloodborne is my favorite game]
+<img src="/crow.png">
 
 ### Front-End 🖌
 ![Angular](https://img.shields.io/badge/angular-red?logo=angular&logoColor=purple&color=black)
