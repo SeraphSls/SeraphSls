@@ -3,7 +3,8 @@
 ## Stacks!
 
 ### Front-End 🖌
-![Angular](https://img.shields.io/badge/angular-red?logo=angular)
+![Angular](https://img.shields.io/badge/angular-red?logo=angular&logoColor=purple&color=black)
+
 
 ### Back-End 🖥
 ![Spring](https://img.shields.io/badge/spring-brightgreen?logo=spring&color=black)
