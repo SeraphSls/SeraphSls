@@ -16,6 +16,17 @@ Car enthusiast, runner and bodybuilder.🤞🏼
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MongoDb](https://img.shields.io/badge/-MongoDb-000%3F%26logo%3Dmongodb?style=flat&logo=mongodb&logoColor=white&color=black)
+
+### Data Processing & Analytics
+![DataBricks](https://img.shields.io/badge/-databricks-000%3F%26logo%3Ddatabricks?style=flat&logo=databricks&logoColor=orange&color=black)
+
+### Cloud 
+
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-000%3F%26logo%3Ddatabricks?style=flat&logo=amazonwebservices&logoColor=orange&color=black)
+![Azure](https://img.shields.io/badge/-Azure-blue?style=flat)
+
+
 
 ### ⌛️ Currently working on.... 
 
@@ -25,5 +36,6 @@ The tecnologies i'm using at this project are, but not limited to:
 - Angular
 - JSF
 - Spring 
-- express.js
 - Azure SQL Server
+- Azure Data Bricks
+
