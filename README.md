@@ -1,12 +1,12 @@
-<h2 align="center">Hi there! I'm Welber Serafim 🦅</h2>
+<h2 align="center">Hi! I'm Welber Serafim 🦅</h2>
 
 ###
 
-<h2 align="center">About me 😁</h2>
+<h3 align="center">About me 😁</h3>
 
 ###
 
-<h4 align="center">I'm a fullstack software engineer from Brazil! :) <br>Currently working in the financial sector</h4>
+<h4 align="center">I'm a fullstack software engineer from Brazil! <br>Currently working on financial sector 📈</h4>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="center">Databases</h3>
+<h3 align="center">Databases 📕</h3>
 
 ###
 
@@ -86,13 +86,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeraphSls&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SeraphSls&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
