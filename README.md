@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">I'm a fullstack software engineer from Brazil! <br>Currently working on financial sector 📈</h4>
+<h4 align="center">I'm a fullstack software engineer from Brazil! <br>Currently working on Mercado Libre! </h4>
 
 ###
 
