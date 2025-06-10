@@ -40,5 +40,5 @@
 </p>
 
 <p align="center">
-  📫 seraphc6@gmail.com · 🌐 <a href="https://linkedin.com/in/seraphs1s">LinkedIn</a>
+  📫 seraphc6@gmail.com · 🌐 <a href="www.linkedin.com/in/welber-serafim-seraphsis">LinkedIn</a>
 </p>
