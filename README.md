@@ -1,6 +1,6 @@
 <h1 align="center">Welber Serafim</h1>
 <p align="center">
-  Software Engineer at Mercado Livre · Fraud Prevention · Backend Systems · AI Projects
+  Software Engineer at Mercado Livre · Fraud Prevention · Backend Systems · Web Scrapping
 </p>
 <p align="center">
   Working on high-throughput pipelines, data annotation, and scalable backend solutions.
