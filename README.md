@@ -2,7 +2,9 @@
 <p align="center">
   Software Engineer at Mercado Livre · Fraud Prevention · Backend Systems · Web Scrapping
 </p>
+
 ---
+
 <h3 align="center">Back-end</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs,express" />
