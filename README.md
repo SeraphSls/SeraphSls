@@ -28,11 +28,6 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,github" />
 </p>
 
-<h3 align="center">Tools & Extras</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vim,postman" />
-</p>
-
 ---
 
 <p align="center">
