@@ -2,12 +2,7 @@
 <p align="center">
   Software Engineer at Mercado Livre · Fraud Prevention · Backend Systems · Web Scrapping
 </p>
-<p align="center">
-  Working on high-throughput pipelines, data annotation, and scalable backend solutions.
-</p>
-
 ---
-
 <h3 align="center">Back-end</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs,express" />
